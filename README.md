@@ -1,6 +1,6 @@
 # flavored0ne
 
-A simple MVC multi-browser (Chrome and Firefox) framework based on Selenium WebDriver.
+A simple MVC multi-browser (Chrome and Firefox) framework written on Python and based on Selenium WebDriver with unittest packages.
 
 To handle operability, 5 test cases are written for the training website "<https://userinyerface.com/>"
 
