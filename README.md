@@ -8,3 +8,5 @@ Startup requires:
 
 1) Install requirements.txt
 2) Run MainPageTest at tests/main_page_test.py (using Pycharm IDE or cd tests && python main_page_test.py)
+
+![image](https://github.com/Flavoredone/Selenium_MVC_miniframework/assets/68301720/1891a389-5a05-44c9-897e-c24ec5c3b8f3)
