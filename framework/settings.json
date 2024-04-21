@@ -1,0 +1,15 @@
+{
+   "browser": "Chrome",
+   "c": {
+      "chrome_1": "--no-sandbox",
+      "chrome_2": "disable-infobars",
+      "chrome_3": "--disable-extensions",
+      "chrome_4": "--start-fullscreen",
+      "chrome_5": "--disable-gpu"
+   },
+   "f": {
+      "firefox_1": "--width=1500",
+      "firefox_2": "--height=900",
+      "firefox_3": "--no-sandbox"
+   }
+}
