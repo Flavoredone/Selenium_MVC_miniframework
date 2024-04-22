@@ -1,6 +1,6 @@
 # flavored0ne
 
-`QA`, `Selenium`, `unittest`, `MVC`, `Python 3.10`
+`QA`, `Selenium`, `unittest`, `MVC`, `Python 3.10`, `XPath`, `Chrome`, `Firefox`
 
 A simple MVC multi-browser (Chrome and Firefox) framework written on Python and based on Selenium WebDriver with unittest packages.
 
