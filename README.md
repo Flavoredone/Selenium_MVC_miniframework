@@ -1,5 +1,7 @@
 # flavored0ne
 
+`QA`, `Selenium`, `unittest`, `MVC`, `Python 3.10`
+
 A simple MVC multi-browser (Chrome and Firefox) framework written on Python and based on Selenium WebDriver with unittest packages.
 
 To handle operability, 5 test cases are written for the training website "<https://userinyerface.com/>"
